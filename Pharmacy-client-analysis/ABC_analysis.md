@@ -162,7 +162,7 @@ GROUP BY rfm_final.client, rfm
 ORDER BY rfm
 
 ```
-### ### 📊 Пример результата запроса:
+### 📊 Пример результата запроса:
 ![Пример результата](images/examp2.png)
 
 
